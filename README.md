@@ -2,8 +2,8 @@
 
 ### About Me
 
-- 🔭 I'm currently working on a **3D Armoury Digital Twin** with Three.js
-- 🌱 I'm currently learning **Three.js, AI/ML**
+- 🔭 I'm currently working at **Soko Aerial Robotics** on drone and robotics solutions
+- 🌱 I'm currently learning **Three.js, AI/ML, and drone software**
 - 👨‍💻 Some of my projects are available at [my repos](https://github.com/Lord-Selorm?tab=repositories)
 - 👯 I'm looking to collaborate on **tech-for-good initiatives in agriculture, health, and education across Africa**
 - 💬 Ask me about **React, Electron, or basketball**
@@ -58,6 +58,7 @@
 
 ### 💼 Experience
 
+- **Software Developer** @ Soko Aerial Robotics (Current)
 - **Software Developer** @ Ghana Atomic Energy Commission (2024–2025)
 - **IT Support Intern** @ GAEC Hospital (2023)
 - **Logistics Agent** @ Landstar, Accra
