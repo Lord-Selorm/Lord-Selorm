@@ -40,11 +40,11 @@
 
 ### GitHub Stats
 
-![Lord-Selorm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord-Selorm&show_icons=true&theme=dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lord-Selorm&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lord-Selorm&theme=github_dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lord-Selorm&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Selorm&layout=compact&theme=dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lord-Selorm&theme=dark)](https://git.io/streak-stats)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lord-Selorm&theme=github_dark)
 
 ### Featured Projects
 
