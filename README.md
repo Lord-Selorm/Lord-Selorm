@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on a **3D Armoury Digital Twin** with Three.js
 - 🌱 I'm currently learning **Three.js, AI/ML**
 - 👨‍💻 Some of my projects are available at [my repos](https://github.com/Lord-Selorm?tab=repositories)
-- 👯 I'm looking to collaborate on **projects that solve real-world problems in Africa**
+- 👯 I'm looking to collaborate on **tech-for-good initiatives in agriculture, health, and education across Africa**
 - 💬 Ask me about **React, Electron, or basketball**
 - 📫 How to reach me: **mcebenselorm1598@gmail.com**
 - 😄 Pronouns: he/him
